@@ -1,20 +1,21 @@
-<<<<<<< HEAD
-# Week 1 - My First Hello World with API
+# TicoAutos Backend
 
-## Install
+Backend API for the TicoAutos project.  
+This service provides user authentication using JWT and connects to MongoDB.
 
-- Install nvm
-- run `nvm use`, this will set the right version of node
-- run `npm install` to install dependencies
+## Technologies
 
-## Run
+- Node.js
+- Express
+- MongoDB (Mongoose)
+- JWT Authentication
+- bcryptjs
+- dotenv
 
-- To execute the service run `npm start`
+## Installation
 
+Clone the repository:
 
-## Test
-
-- To test this you can use [postman](https://www.postman.com/) or a simple curl request: `curl http://localhost:3000/tipocambio`
-=======
-# Ticoautos-backend
->>>>>>> 14301832493bc93635e788db8a703261622743af
+```bash
+git clone https://github.com/juandagomez04/Ticoautos-backend.git
+cd Ticoautos-backend
