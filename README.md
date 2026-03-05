@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 1 - My First Hello World with API
 
 ## Install
@@ -14,3 +15,6 @@
 ## Test
 
 - To test this you can use [postman](https://www.postman.com/) or a simple curl request: `curl http://localhost:3000/tipocambio`
+=======
+# Ticoautos-backend
+>>>>>>> 14301832493bc93635e788db8a703261622743af
